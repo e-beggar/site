@@ -73,7 +73,7 @@ user-select: none;
 
 body {
  
-    background: url(/IMG/Back.jpg);
+    background: url(../IMG/Back.jpg);
     background-repeat: no-repeat;
 
 }
@@ -168,7 +168,7 @@ footer {
 @media (min-width: 1px) and (max-width: 900px) {
     body {
         transition: 1s;
-        background: url(/IMG/backmobile-v2.jpg);
+        background: url(../IMG/backmobile-v2.jpg);
         background-repeat: no-repeat;
     }
 
