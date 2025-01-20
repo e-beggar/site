@@ -4,25 +4,25 @@
 
 @font-face {
     font-family: Caveat;
-    src: url(../Fonts/Caveat-Bold.ttf);
+    src: url(../site/Fonts/Caveat-Bold.ttf);
     font-weight: 400;
 }
 
 @font-face {
     font-family: Caveat;
-    src: url(../Fonts/Caveat-Medium.ttf);
+    src: url(../site/Fonts/Caveat-Medium.ttf);
     font-weight: 400;
 }
 
 @font-face {
     font-family: Caveat;
-    src: url(../Fonts/Caveat-Regular.ttf);
+    src: url(../site/Fonts/Caveat-Regular.ttf);
     font-weight: 400;
 }
 
 @font-face {
     font-family: Caveat;
-    src: url(../Fonts/Caveat-SemiBold.ttf);
+    src: url(../site/Fonts/Caveat-SemiBold.ttf);
     font-weight: 400;
 }
 
@@ -73,7 +73,7 @@ user-select: none;
 
 body {
  
-    background: url(../IMG/Back.jpg);
+    background: url(../site/IMG/Back.jpg);
     background-repeat: no-repeat;
 
 }
@@ -168,7 +168,7 @@ footer {
 @media (min-width: 1px) and (max-width: 900px) {
     body {
         transition: 1s;
-        background: url(../IMG/backmobile-v2.jpg);
+        background: url(../site/IMG/backmobile-v2.jpg);
         background-repeat: no-repeat;
     }
 
